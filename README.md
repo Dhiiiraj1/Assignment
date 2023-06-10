@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dhiiiraj1
+- 👋 Hi, I’m @Dhiraj
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Fullstack Development
 - 📫 How to reach me - https://twitter.com/Dhiiiraj12
